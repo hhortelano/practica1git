@@ -7,7 +7,7 @@ public class App {
         Scanner teclado = new Scanner(System.in);
 
         for (; true; ) {
-            System.out.println("Choose an option:\n" +
+            System.out.println("Choose an option:n" +
                     "  1. Square\n" +
                     "  2. Title\n" +
                     "  0. Quit\n");
